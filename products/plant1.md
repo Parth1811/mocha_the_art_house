@@ -2,13 +2,11 @@
 layout: product
 id: '1'
 price: '49.40'
-title: Nulla suscipit
+title: Kudan Earrings
 description: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla suscipit velit
-  lectus, vitae efficitur quam mollis eget. Integer porta at nisl eget
-  tincidunt.
-default_thumbnail_image: images/plant1.jpg
-default_original_image: images/plant1-lg.jpg
+  Intricate Hand-breaded earring, avaible in different colors
+default_thumbnail_image: images/earring_1.jpeg
+default_original_image: images/earring_1.jpeg
 featured: true
 order: 1
 category: category/bigplants.md

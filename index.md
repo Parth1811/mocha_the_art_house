@@ -5,15 +5,14 @@ white_header: true
 sections:
   - type: hero_section
     section_id: hero_section
-    background_image: images/header.jpg
+    background_image: images/Background.jpeg  
     background_image_opacity: 65
     content: >-
-      # Real, beautiful plants right to your door
+      # Mocha
 
-      Don't forget to add your Snipcart API key to the site's configuration to
-      enable Cart actions.
+      The Art House
     actions:
-      - title: See all items
+      - title: Start Shopping
         url: /store
         arrow: true
         style: primary
